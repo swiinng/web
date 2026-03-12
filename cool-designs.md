@@ -1,25 +1,15 @@
 # cooldesigns
 list of cool designed websites and more
 
-Resilient Web Design
-- https://resilientwebdesign.com/
-- Book type
+## Websites
+- Resilient Web Design - online book - https://resilientwebdesign.com/
+- Tailwind CSS - https://tailwindcss.com/
+- itsoffbrand - designers - https://www.itsoffbrand.com/
+- Cloudflare docs - https://developers.cloudflare.com/fundamentals/
+- Mux - video cdn - https://www.mux.com/
+- GitButler - git clinet - https://gitbutler.com/
 
-Tailwind CSS
-- https://tailwindcss.com/
 
-itsoffbrand
-- https://www.itsoffbrand.com/
-- Creative Content Websites
-
-Cloudflare Docs
-- https://developers.cloudflare.com/fundamentals/
-- Cool documentation
-
-Mux
-- https://www.mux.com/
-- Video CDN
-
-GitButler
-- https://gitbutler.com/
-- Git Client
+## Components
+- [fzf](https://github.com/junegunn/fzf) - fuzzy finder - [Logo](./assets/fzf-logo.png)
+- [bouncy castle]() - crypto libs - [hero](./assets/bouncy-castle-hero-svg.png)
