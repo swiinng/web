@@ -49,6 +49,9 @@ learning web dev https://developer.mozilla.org/en-US/docs/Learn_web_development
 - badssl https://badssl.com/
 - robots.txt https://www.robotstxt.org/
 
+### Write-ups
+- joshwcomeau web vlogs https://www.joshwcomeau.com/
+
 
 ### Continue
 - core modules https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
